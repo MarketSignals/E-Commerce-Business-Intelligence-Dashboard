@@ -392,6 +392,21 @@ interactive filtering and analysis across multiple business dimensions.
 
 ---
 
+# 12. SQL Analysis
+
+The SQL component of this project contains the queries used to analyze
+the e-commerce dataset and derive business insights across sales,
+customers, products, marketing, returns and payments.
+
+The SQL files for this analysis are organized in the **SQL** folder
+of this repository.
+
+```text
+SQL/
+```
+
+---
+
 ## Dashboard Capabilities
 
 - Interactive category, campaign and date filters
