@@ -402,7 +402,7 @@ The SQL files for this analysis are organized in the **SQL** folder
 of this repository.
 
 ```text
-SQL/
+SQL/.git
 ```
 
 ---
